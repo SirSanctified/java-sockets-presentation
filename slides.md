@@ -491,4 +491,4 @@ class: text-center
 
 # Thank You!
 
-[Learn More About Distributed Computing](https://www.oracle.com/middleware/)
+[Learn More About Distributed Computing](https://how.dev/answers/what-is-middleware-in-distributed-systems)
